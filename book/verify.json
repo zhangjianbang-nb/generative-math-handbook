@@ -1,0 +1,396 @@
+{
+ "total": {
+  "visible": 8330762,
+  "cjk": 3478506,
+  "display": 13179,
+  "inline": 191178,
+  "tables": 1320,
+  "figures": 1593,
+  "derivations": 3200,
+  "ai": 8033,
+  "sections": 500
+ },
+ "checks": [
+  {
+   "name": "节齐全 500",
+   "ok": true,
+   "detail": "0 缺失"
+  },
+  {
+   "name": "可见字符 ≥ 8,000,000",
+   "ok": true,
+   "detail": "8,330,762"
+  },
+  {
+   "name": "显示公式 ≥ 10,000",
+   "ok": true,
+   "detail": "13,179"
+  },
+  {
+   "name": "图 ≥ 1,000",
+   "ok": true,
+   "detail": "1,593"
+  },
+  {
+   "name": "表 ≥ 400",
+   "ok": true,
+   "detail": "1,320"
+  },
+  {
+   "name": "推导 ≥ 1,600",
+   "ok": true,
+   "detail": "3,200"
+  },
+  {
+   "name": "AI 关联 ≥ 800",
+   "ok": true,
+   "detail": "8,033"
+  },
+  {
+   "name": "无占位符",
+   "ok": true,
+   "detail": "0 节"
+  },
+  {
+   "name": "无未闭合 $$",
+   "ok": true,
+   "detail": "0 节"
+  },
+  {
+   "name": "无重复小节",
+   "ok": true,
+   "detail": "0 节"
+  }
+ ],
+ "per_chapter": {
+  "1": {
+   "visible": 412449,
+   "cjk": 170768,
+   "display": 564,
+   "inline": 10270,
+   "tables": 61,
+   "figures": 98,
+   "derivations": 170,
+   "ai": 473,
+   "sections": 20,
+   "missing": 0,
+   "budget": 400000
+  },
+  "2": {
+   "visible": 313904,
+   "cjk": 130506,
+   "display": 471,
+   "inline": 7541,
+   "tables": 46,
+   "figures": 39,
+   "derivations": 86,
+   "ai": 261,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "3": {
+   "visible": 308562,
+   "cjk": 136410,
+   "display": 409,
+   "inline": 7576,
+   "tables": 53,
+   "figures": 54,
+   "derivations": 114,
+   "ai": 207,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "4": {
+   "visible": 309333,
+   "cjk": 149940,
+   "display": 320,
+   "inline": 7424,
+   "tables": 48,
+   "figures": 45,
+   "derivations": 147,
+   "ai": 259,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "5": {
+   "visible": 362885,
+   "cjk": 155078,
+   "display": 569,
+   "inline": 8289,
+   "tables": 50,
+   "figures": 75,
+   "derivations": 140,
+   "ai": 306,
+   "sections": 20,
+   "missing": 0,
+   "budget": 360000
+  },
+  "6": {
+   "visible": 339433,
+   "cjk": 147848,
+   "display": 571,
+   "inline": 7546,
+   "tables": 54,
+   "figures": 82,
+   "derivations": 132,
+   "ai": 271,
+   "sections": 20,
+   "missing": 0,
+   "budget": 340000
+  },
+  "7": {
+   "visible": 272265,
+   "cjk": 118370,
+   "display": 528,
+   "inline": 6242,
+   "tables": 52,
+   "figures": 50,
+   "derivations": 112,
+   "ai": 171,
+   "sections": 20,
+   "missing": 0,
+   "budget": 260000
+  },
+  "8": {
+   "visible": 249738,
+   "cjk": 106432,
+   "display": 360,
+   "inline": 5908,
+   "tables": 43,
+   "figures": 42,
+   "derivations": 82,
+   "ai": 272,
+   "sections": 20,
+   "missing": 0,
+   "budget": 220000
+  },
+  "9": {
+   "visible": 401898,
+   "cjk": 169966,
+   "display": 590,
+   "inline": 10128,
+   "tables": 59,
+   "figures": 92,
+   "derivations": 194,
+   "ai": 255,
+   "sections": 20,
+   "missing": 0,
+   "budget": 420000
+  },
+  "10": {
+   "visible": 398227,
+   "cjk": 164593,
+   "display": 660,
+   "inline": 9985,
+   "tables": 65,
+   "figures": 89,
+   "derivations": 179,
+   "ai": 420,
+   "sections": 20,
+   "missing": 0,
+   "budget": 400000
+  },
+  "11": {
+   "visible": 297782,
+   "cjk": 122589,
+   "display": 478,
+   "inline": 7635,
+   "tables": 46,
+   "figures": 45,
+   "derivations": 107,
+   "ai": 308,
+   "sections": 20,
+   "missing": 0,
+   "budget": 280000
+  },
+  "12": {
+   "visible": 327956,
+   "cjk": 132680,
+   "display": 449,
+   "inline": 7651,
+   "tables": 51,
+   "figures": 76,
+   "derivations": 167,
+   "ai": 360,
+   "sections": 20,
+   "missing": 0,
+   "budget": 320000
+  },
+  "13": {
+   "visible": 318585,
+   "cjk": 119199,
+   "display": 568,
+   "inline": 7943,
+   "tables": 53,
+   "figures": 60,
+   "derivations": 136,
+   "ai": 245,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "14": {
+   "visible": 318097,
+   "cjk": 123575,
+   "display": 436,
+   "inline": 7819,
+   "tables": 52,
+   "figures": 47,
+   "derivations": 150,
+   "ai": 299,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "15": {
+   "visible": 355427,
+   "cjk": 143780,
+   "display": 474,
+   "inline": 8781,
+   "tables": 58,
+   "figures": 63,
+   "derivations": 148,
+   "ai": 404,
+   "sections": 20,
+   "missing": 0,
+   "budget": 320000
+  },
+  "16": {
+   "visible": 378204,
+   "cjk": 157685,
+   "display": 598,
+   "inline": 7414,
+   "tables": 61,
+   "figures": 82,
+   "derivations": 120,
+   "ai": 355,
+   "sections": 20,
+   "missing": 0,
+   "budget": 360000
+  },
+  "17": {
+   "visible": 322294,
+   "cjk": 133208,
+   "display": 466,
+   "inline": 6788,
+   "tables": 41,
+   "figures": 39,
+   "derivations": 88,
+   "ai": 299,
+   "sections": 20,
+   "missing": 0,
+   "budget": 280000
+  },
+  "18": {
+   "visible": 348395,
+   "cjk": 141648,
+   "display": 584,
+   "inline": 7361,
+   "tables": 56,
+   "figures": 69,
+   "derivations": 132,
+   "ai": 334,
+   "sections": 20,
+   "missing": 0,
+   "budget": 320000
+  },
+  "19": {
+   "visible": 320273,
+   "cjk": 129580,
+   "display": 472,
+   "inline": 6140,
+   "tables": 43,
+   "figures": 39,
+   "derivations": 100,
+   "ai": 314,
+   "sections": 20,
+   "missing": 0,
+   "budget": 280000
+  },
+  "20": {
+   "visible": 317195,
+   "cjk": 137297,
+   "display": 536,
+   "inline": 7430,
+   "tables": 56,
+   "figures": 45,
+   "derivations": 121,
+   "ai": 308,
+   "sections": 20,
+   "missing": 0,
+   "budget": 300000
+  },
+  "21": {
+   "visible": 364991,
+   "cjk": 148367,
+   "display": 733,
+   "inline": 8027,
+   "tables": 60,
+   "figures": 86,
+   "derivations": 147,
+   "ai": 357,
+   "sections": 20,
+   "missing": 0,
+   "budget": 360000
+  },
+  "22": {
+   "visible": 296201,
+   "cjk": 129382,
+   "display": 464,
+   "inline": 6857,
+   "tables": 52,
+   "figures": 45,
+   "derivations": 100,
+   "ai": 354,
+   "sections": 20,
+   "missing": 0,
+   "budget": 260000
+  },
+  "23": {
+   "visible": 290997,
+   "cjk": 125768,
+   "display": 463,
+   "inline": 6419,
+   "tables": 50,
+   "figures": 44,
+   "derivations": 96,
+   "ai": 256,
+   "sections": 20,
+   "missing": 0,
+   "budget": 260000
+  },
+  "24": {
+   "visible": 300051,
+   "cjk": 128765,
+   "display": 568,
+   "inline": 6058,
+   "tables": 52,
+   "figures": 48,
+   "derivations": 88,
+   "ai": 366,
+   "sections": 20,
+   "missing": 0,
+   "budget": 260000
+  },
+  "25": {
+   "visible": 405620,
+   "cjk": 155072,
+   "display": 848,
+   "inline": 7946,
+   "tables": 58,
+   "figures": 139,
+   "derivations": 144,
+   "ai": 554,
+   "sections": 20,
+   "missing": 0,
+   "budget": 500000
+  }
+ },
+ "missing": [],
+ "placeholders": [],
+ "dup": [],
+ "unclosed": []
+}

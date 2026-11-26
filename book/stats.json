@@ -1,0 +1,290 @@
+{
+ "total": {
+  "cjk": 3478506,
+  "visible": 8330762,
+  "display": 13179,
+  "inline": 191178,
+  "tables": 1320,
+  "figures": 1593,
+  "derivations": 3200,
+  "ai": 8008
+ },
+ "missing": [],
+ "per_chapter": {
+  "1": {
+   "cjk": 170768,
+   "visible": 412449,
+   "display": 564,
+   "inline": 10270,
+   "tables": 61,
+   "figures": 98,
+   "derivations": 170,
+   "ai": 473,
+   "missing": 0
+  },
+  "2": {
+   "cjk": 130506,
+   "visible": 313904,
+   "display": 471,
+   "inline": 7541,
+   "tables": 46,
+   "figures": 39,
+   "derivations": 86,
+   "ai": 261,
+   "missing": 0
+  },
+  "3": {
+   "cjk": 136410,
+   "visible": 308562,
+   "display": 409,
+   "inline": 7576,
+   "tables": 53,
+   "figures": 54,
+   "derivations": 114,
+   "ai": 207,
+   "missing": 0
+  },
+  "4": {
+   "cjk": 149940,
+   "visible": 309333,
+   "display": 320,
+   "inline": 7424,
+   "tables": 48,
+   "figures": 45,
+   "derivations": 147,
+   "ai": 259,
+   "missing": 0
+  },
+  "5": {
+   "cjk": 155078,
+   "visible": 362885,
+   "display": 569,
+   "inline": 8289,
+   "tables": 50,
+   "figures": 75,
+   "derivations": 140,
+   "ai": 306,
+   "missing": 0
+  },
+  "6": {
+   "cjk": 147848,
+   "visible": 339433,
+   "display": 571,
+   "inline": 7546,
+   "tables": 54,
+   "figures": 82,
+   "derivations": 132,
+   "ai": 271,
+   "missing": 0
+  },
+  "7": {
+   "cjk": 118370,
+   "visible": 272265,
+   "display": 528,
+   "inline": 6242,
+   "tables": 52,
+   "figures": 50,
+   "derivations": 112,
+   "ai": 171,
+   "missing": 0
+  },
+  "8": {
+   "cjk": 106432,
+   "visible": 249738,
+   "display": 360,
+   "inline": 5908,
+   "tables": 43,
+   "figures": 42,
+   "derivations": 82,
+   "ai": 272,
+   "missing": 0
+  },
+  "9": {
+   "cjk": 169966,
+   "visible": 401898,
+   "display": 590,
+   "inline": 10128,
+   "tables": 59,
+   "figures": 92,
+   "derivations": 194,
+   "ai": 255,
+   "missing": 0
+  },
+  "10": {
+   "cjk": 164593,
+   "visible": 398227,
+   "display": 660,
+   "inline": 9985,
+   "tables": 65,
+   "figures": 89,
+   "derivations": 179,
+   "ai": 420,
+   "missing": 0
+  },
+  "11": {
+   "cjk": 122589,
+   "visible": 297782,
+   "display": 478,
+   "inline": 7635,
+   "tables": 46,
+   "figures": 45,
+   "derivations": 107,
+   "ai": 308,
+   "missing": 0
+  },
+  "12": {
+   "cjk": 132680,
+   "visible": 327956,
+   "display": 449,
+   "inline": 7651,
+   "tables": 51,
+   "figures": 76,
+   "derivations": 167,
+   "ai": 360,
+   "missing": 0
+  },
+  "13": {
+   "cjk": 119199,
+   "visible": 318585,
+   "display": 568,
+   "inline": 7943,
+   "tables": 53,
+   "figures": 60,
+   "derivations": 136,
+   "ai": 245,
+   "missing": 0
+  },
+  "14": {
+   "cjk": 123575,
+   "visible": 318097,
+   "display": 436,
+   "inline": 7819,
+   "tables": 52,
+   "figures": 47,
+   "derivations": 150,
+   "ai": 299,
+   "missing": 0
+  },
+  "15": {
+   "cjk": 143780,
+   "visible": 355427,
+   "display": 474,
+   "inline": 8781,
+   "tables": 58,
+   "figures": 63,
+   "derivations": 148,
+   "ai": 404,
+   "missing": 0
+  },
+  "16": {
+   "cjk": 157685,
+   "visible": 378204,
+   "display": 598,
+   "inline": 7414,
+   "tables": 61,
+   "figures": 82,
+   "derivations": 120,
+   "ai": 355,
+   "missing": 0
+  },
+  "17": {
+   "cjk": 133208,
+   "visible": 322294,
+   "display": 466,
+   "inline": 6788,
+   "tables": 41,
+   "figures": 39,
+   "derivations": 88,
+   "ai": 299,
+   "missing": 0
+  },
+  "18": {
+   "cjk": 141648,
+   "visible": 348395,
+   "display": 584,
+   "inline": 7361,
+   "tables": 56,
+   "figures": 69,
+   "derivations": 132,
+   "ai": 334,
+   "missing": 0
+  },
+  "19": {
+   "cjk": 129580,
+   "visible": 320273,
+   "display": 472,
+   "inline": 6140,
+   "tables": 43,
+   "figures": 39,
+   "derivations": 100,
+   "ai": 314,
+   "missing": 0
+  },
+  "20": {
+   "cjk": 137297,
+   "visible": 317195,
+   "display": 536,
+   "inline": 7430,
+   "tables": 56,
+   "figures": 45,
+   "derivations": 121,
+   "ai": 308,
+   "missing": 0
+  },
+  "21": {
+   "cjk": 148367,
+   "visible": 364991,
+   "display": 733,
+   "inline": 8027,
+   "tables": 60,
+   "figures": 86,
+   "derivations": 147,
+   "ai": 357,
+   "missing": 0
+  },
+  "22": {
+   "cjk": 129382,
+   "visible": 296201,
+   "display": 464,
+   "inline": 6857,
+   "tables": 52,
+   "figures": 45,
+   "derivations": 100,
+   "ai": 354,
+   "missing": 0
+  },
+  "23": {
+   "cjk": 125768,
+   "visible": 290997,
+   "display": 463,
+   "inline": 6419,
+   "tables": 50,
+   "figures": 44,
+   "derivations": 96,
+   "ai": 256,
+   "missing": 0
+  },
+  "24": {
+   "cjk": 128765,
+   "visible": 300051,
+   "display": 568,
+   "inline": 6058,
+   "tables": 52,
+   "figures": 48,
+   "derivations": 88,
+   "ai": 366,
+   "missing": 0
+  },
+  "25": {
+   "cjk": 155072,
+   "visible": 405620,
+   "display": 848,
+   "inline": 7946,
+   "tables": 58,
+   "figures": 139,
+   "derivations": 144,
+   "ai": 554,
+   "missing": 0
+  }
+ }
+}

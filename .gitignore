@@ -1,0 +1,16 @@
+# 生成物（不重复入库）
+site/
+book/sec/
+data/
+book/progress*.jsonl
+__pycache__/
+*.pyc
+
+# PDF：全书.pdf 126MB 超 GitHub 单文件 100MB 限制，只入分卷
+book/pdf/*
+!book/pdf/part-*.pdf
+
+# 会话工具（含登录流程，不入库）
+tools/gh_*.js
+book/gen.log
+book/smoke.log
