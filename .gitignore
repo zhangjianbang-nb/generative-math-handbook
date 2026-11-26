@@ -14,3 +14,4 @@ book/pdf/*
 tools/gh_*.js
 book/gen.log
 book/smoke.log
+tools/gh_*.sh
